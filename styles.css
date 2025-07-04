@@ -10,7 +10,6 @@ body {
 .header {
     background-color: #1F2937;
     font-family: "Times New Roman";
-    display: flex;
     justify-content: space-between;
     align-items: center;
 }
